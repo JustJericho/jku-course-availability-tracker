@@ -10,6 +10,6 @@ Good luck to the potential JKU students! May the best man win ;)
 
 TLDR;
 Use as follows:
-  python jku-course-tracker.py https://www.kusss.jku.at/kusss/lvaregistrationlist.action?courseclass=46713
+`python jku-course-tracker.py https://www.kusss.jku.at/kusss/lvaregistrationlist.action?courseclass=46713`
 Where 
-  python *name of file* *link to the course on kuss*
+  python `*name of file*` `*link to the course on kuss*`
